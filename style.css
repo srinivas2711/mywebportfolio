@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #25b79f;
+  background-color: #58b6df;
   height: 100vh;
 }
 
@@ -297,7 +297,7 @@ header {
 /* ////.....Portfolio......///// */
 
 .portfolio {
-  background: #25b79f;
+  background: #98d2eb;
   padding: 6rem 0;
 }
 
@@ -650,6 +650,9 @@ header {
   .contact-content {
     width: 100%;
   }
+}
+.su img{
+  border-radius: 0%;
 }
 
 @media (min-width: 769px) and (max-width: 1200px) {
